@@ -1,0 +1,13 @@
+streamlit
+fastapi
+uvicorn
+torch
+transformers
+numpy
+pandas
+scikit-learn
+Pillow
+opencv-python
+requests
+python-dotenv
+pydantic
